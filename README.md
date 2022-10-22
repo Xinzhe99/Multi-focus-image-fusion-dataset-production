@@ -1,2 +1,4 @@
-# -
+# 制作多聚焦图像融合数据集
 使用VOC2012数据集生成深度学习多聚焦图像融合训练数据集
+创建SourceA、SourceB、decisionmap、VOC2012文件夹
+VOC2012文件夹内包括JPEGImages、SegmentationObject
